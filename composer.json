@@ -1,0 +1,8 @@
+{
+    "name": "ppkuk/test",
+    "description": "some desc",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
